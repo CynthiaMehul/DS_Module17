@@ -76,7 +76,7 @@ int main() {
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/b2313ef0-0ec6-45fc-8ce6-adeecaf22504)
+![image](https://github.com/user-attachments/assets/78695a8b-e01c-4416-9c70-410531a584d2)
 
 ## Result:
 Thus, the C program to print the adjacency matrix of the given graph is implemented successfully.
