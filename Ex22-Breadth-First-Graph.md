@@ -69,7 +69,7 @@ void printQueue(struct queue* q) {
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/96058575-e291-48b2-addb-7f3d34039b80)
+![image](https://github.com/user-attachments/assets/a2d17d25-ad31-431a-8e73-c1bc709135b8)
 
 ## Result:
 Thus, the code for the printQueue function of the following graph that is to be traversed in the breadth first manner is implemented successfully.
